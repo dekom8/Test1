@@ -9,7 +9,7 @@ body{
 	width: 100%;
 	flex-wrap: wrap;
 }
-
+/*Sosnov production*/
 .one, .two, .three, .four, .five, .six, .seven{
 	opacity: 0.85;
 	border: 2px solid cyan;
